@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=70.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qcpredictor"
+version = "0.1.0"
+description = "QCNet Predictor"
+requires-python = ">=3.9"
